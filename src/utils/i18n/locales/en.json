@@ -1,0 +1,71 @@
+{
+  "add": "Add",
+  "index": "Index",
+  "fullName": "Full name",
+  "accountName": "Account name",
+  "email": "Email",
+  "phoneNumber": "Phone number",
+  "address": "Address",
+  "title": "Title",
+  "unit": "Unit",
+  "role": "Role",
+  "operation": "Action",
+  "import": "Import data",
+  "export": "Export Excel data",
+  "search": "Search",
+  "resolution": "Resolution",
+  "display": "Display",
+  "remove": "Remove",
+  "time": "Time",
+  "expanded": "EXPANDED",
+  "collapse": "COLLAPSE",
+  "noData": "No Data",
+  "home": {
+    "title": "V-Space: Intelligent Geospatial Monitoring System",
+    "aiResult": "AI RESULT",
+    "startDate": "Start Time",
+    "endDate": "End Time",
+    "mapTool": {
+      "field": "Field",
+      "layerMapInField": "Layer Map In Field",
+      "layerMap": "Layer Map",
+      "savedAddress": "Saved Address",
+      "caringArea": "Caring Area",
+      "measureLength": "Measure Length",
+      "measureArea": "Measure Area"
+    },
+    "bottom": {
+      "home": "HOME",
+      "searchImages": "IMAGE SEARCH",
+      "detectChange": "CHANGES MONITORING",
+      "detectObject": "OBJECTS MONITORING",
+      "monitorCurrentStatus": "LAND COVER MONITORING",
+      "satelliteBaseMap": "Satellite base map",
+      "defaultMap": "Default map",
+      "satelliteImages": "Satellite Images",
+      "aiResult": "AI Result"
+    },
+    "chart":{
+      "AiResultChart": "AI RESULT REPORT CHART"
+    },
+    "infoBox": {
+      "changeType": "Change Type",
+      "address": "Address",
+      "changeArea": "Change Area",
+      "discoveryTime":"Discovery Time",
+      "coordinate": "Coordinate",
+      "detectType": "Detect Type",
+      "location": "Location"
+    }
+  },
+  "admin": {
+    "users": {
+      "userList": "Danh sách người dùng",
+      "update": "Cập nhật tài khoản",
+      "updateRole": "Phân quyền người dùng",
+      "resetPassword": "Đặt lại mật khẩu",
+      "delete": "Xóa tài khoản",
+      "importUserSuccessfully": "Thêm người dùng từ file thành công!"
+    }
+  }
+}

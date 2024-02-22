@@ -1,0 +1,71 @@
+{
+  "add": "Thêm mới",
+  "index": "STT",
+  "fullName": "Họ và tên",
+  "accountName": "Tên tài khoản",
+  "email": "Email",
+  "phoneNumber": "Số điện thoại",
+  "address": "Địa chỉ",
+  "title": "Chức danh",
+  "unit": "Đơn vị",
+  "role": "Vai trò",
+  "operation": "Thao tác",
+  "import": "Nhập dữ liệu",
+  "export": "Xuất file Excel",
+  "search": "Tìm kiếm",
+  "resolution": "Độ phân giải",
+  "display": "Hiển thị",
+  "remove": "Loại bỏ",
+  "time": "Thời gian",
+  "expanded": "MỞ RỘNG",
+  "collapse": "THU NHỎ",
+  "noData": "Không có dữ liệu",
+  "home": {
+    "title": "NỀN TẢNG QUẢN LÝ VÀ GIÁM SÁT KHÔNG GIAN V-SPACE",
+    "aiResult": "BÁO CÁO KẾT QUẢ AI",
+    "startDate": "Thời gian bắt đầu",
+    "endDate": "Thời gian kết thúc",
+    "mapTool": {
+      "field": "Lĩnh vực",
+      "layerMapInField": "LỚP BẢN ĐỒ LĨNH VỰC",
+      "layerMap": "Lớp bản đồ",
+      "savedAddress": "Địa chỉ đã lưu",
+      "caringArea": "Khu vực quan tâm",
+      "measureLength": "Đo chiều dài",
+      "measureArea": "Đo chiều dài"
+    },
+    "bottom": {
+      "home": "TRANG CHỦ",
+      "searchImages": "TÌM KIẾM ẢNH",
+      "detectChange": "GIÁM SÁT THAY ĐỔI",
+      "detectObject": "GIÁM SÁT ĐỐI TƯỢNG",
+      "monitorCurrentStatus": "GIÁM SÁT HIỆN TRẠNG",
+      "satelliteBaseMap": "Bản đồ nền Vệ tinh",
+      "defaultMap": "Bản đồ mặc định",
+      "satelliteImages": "Hình ảnh vệ tinh",
+      "aiResult": "Kết quả AI"
+    },
+    "chart":{
+      "AiResultChart": "BÁO CÁO KẾT QUẢ AI"
+    },
+    "infoBox": {
+      "changeType": "Loại thay đổi",
+      "address": "Vị trí",
+      "changeArea": "Diện tích thay đổi",
+      "discoveryTime":"Thời điểm phát hiện",
+      "coordinate": "Tọa độ",
+      "detectType": "Loại Thay đổi",
+      "location": "Vị trí"
+    }
+  },
+  "admin": {
+    "users": {
+      "userList": "Danh sách người dùng",
+      "update": "Cập nhật tài khoản",
+      "updateRole": "Phân quyền người dùng",
+      "resetPassword": "Đặt lại mật khẩu",
+      "delete": "Xóa tài khoản",
+      "importUserSuccessfully": "Thêm người dùng từ file thành công!"
+    }
+  }
+}
